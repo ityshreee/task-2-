@@ -21,4 +21,12 @@ results/
 - Final datasets saved to `results/final_data/`
 
 ## Push to GitHub
--> uploaded m
+```bash
+cd repo
+git init
+git add .
+git commit -m "Milestone 2: EDA + preprocessing pipeline"
+git branch -M main
+git remote add origin https://github.com/ityshreee/task-2-.git
+git push -u origin main
+```
